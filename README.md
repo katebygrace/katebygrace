@@ -2,7 +2,7 @@
 
 👀 I’m interested in making things secure and scalable. I love learning almost anything - teach me something new! 
 
-🌱 I’m currently learning k8s! Kubernetes is very interesting to me. 
+🌱 I’m currently learning container security.  
 
 💞️ I’m looking to collaborate on some side projects. I'm an infrastructure person, but would love to set up a blog that looks reasonably nice! 
 
