@@ -1,12 +1,11 @@
-👋 Hi, I’m @katebygrace
+👋 Hi, I’m k8!
 
-👀 I’m interested in making things secure and scalable. I love learning almost anything - teach me something new! 
+🌽 In my free time, I work on a farm, hang out with my dog, and enjoy exploring new areas and cuisines. 
 
-🌱 I’m currently learning k8s, and studying for the CKA. 
+💻 I work at edX/2u, and volunteer with devopsdays Boston and am on the Boston Devops Board. 
 
-💞️ I’m looking to collaborate on some side projects. I'm an infrastructure person, but would love to set up a blog that looks reasonably nice! 
 
-📫 How to reach me - If you have another means, signal, email etc, please use it! I will not be posting contact info here.
+
 
 <!---
 katebygrace/katebygrace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
